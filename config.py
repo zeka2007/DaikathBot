@@ -1,5 +1,5 @@
 import os
-OKEN = os.environ.get('BOT_TOKEN')
+TOKEN = os.environ.get('BOT_TOKEN')
 button_names = [
     '🎲 рандомное число',
     "☀ узнать погоду",
